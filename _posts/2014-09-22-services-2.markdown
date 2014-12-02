@@ -1,0 +1,9 @@
+---
+layout: default
+img: matr-screen.jpeg
+category: Projects
+title: "MATR: Mobile Apparatus for Temporality Research"
+description: |
+  <p class="lead"><a target="_blank" href="https://itunes.apple.com/us/app/matr-mobile-apparatus-for/id460362993">MATR</a> is an experimental music generator, wayfinding device and sensing system for large scale forces designed by the research collective <a target="_blank" href="http://spurse.org">spurse</a>.</p>
+
+---

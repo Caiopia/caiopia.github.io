@@ -1,12 +1,29 @@
-# Site settings
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://caiopia.github.io
 title: Caio Lima
 email: caio@caiolima.me
-description: > # this means to ignore newlines until "baseurl:"
-  This is where I write about iOS and math related topics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://caiolima.me" # the base hostname & protocol for your site
-twitter_username: caiopia
-github_username:  caiopia
+description: > # "Overview of Caio Lima"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/caiopia
+  - title: linkedin
+    url: https://ca.linkedin.com/in/limacaio
+  # - title: reverbnation
+  #   url: https://www.reverbnation.com/caiolima
+
