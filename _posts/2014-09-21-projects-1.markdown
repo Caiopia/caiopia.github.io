@@ -1,7 +1,7 @@
 ---
 layout: default
 img: pp-icon.jpeg
-category: Services
+category: Projects
 title: Paperless Post
 description: |
   <p class="lead">Provides an elegant solution to send event invitations, greeting cards, stationery and ecards. Built by the Platform Team at <a target="_blank" href="https://paperlesspost.com">Paperless Post</a></p>
