@@ -1,0 +1,10 @@
+---
+layout: default
+img: movelus-icon.png
+category: Projects
+title: "Movelus Local"
+link: "http://movelus.com"
+description: |
+  <p class="lead"><a target="_blank" href="https://movelus.com">Movelus</a> is the fastest way to request quotes for professional an experimental music generator, wayfinding device and sensing system for large scale forces designed by the research collective <a target="_blank" href="http://spurse.org">spurse</a>.</p>
+
+---
