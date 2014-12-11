@@ -1,0 +1,33 @@
+body {
+    /*background-image: url(../img/dark-grey-bg.jpg);*/
+    background-color: #222222;
+    background-size: cover;
+/*    background-position: top center;
+    background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#construction-container {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#construction {
+    color: #cccccc;
+    font-family: Menlo;
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: lighter;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400;
+}
+
+a.btn {
+    margin-top: 40px;
+}
